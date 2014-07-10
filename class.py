@@ -5,3 +5,5 @@ class Person:
 		print 'hello,name is',self.name2
 p = Person ('qqq1','qqq2')
 p.hello()
+
+# Add my trace here
